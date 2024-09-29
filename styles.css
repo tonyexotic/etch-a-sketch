@@ -1,13 +1,5 @@
-#container{
-    display: flex;
-    border: 1px solid black;
-    height: 1000px;
-    width: 1000px;
-    justify-content: center;
-    align-items: center;
+* {
+    margin: O;
+    padding: 0;
 }
 
-div{
-    border: 1px solid black;
-    flex-wrap: wrap;
-}
