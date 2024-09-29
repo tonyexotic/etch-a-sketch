@@ -3,3 +3,17 @@
     padding: 0;
 }
 
+body {
+   background-color: lightblue; 
+}
+
+#sketch-area {
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin: 100 px auto;
+    background-color: white;
+}
+
+.cell {
+    border: solid 1px whitesmoke;
+}
